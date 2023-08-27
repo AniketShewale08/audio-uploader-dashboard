@@ -33,11 +33,6 @@
   4. Run database migrations:
     - python manage.py migrate
 
-  5. Start the development server:
-    - python manage.py runserver
-
-  6. Access the dashboard in your web browser at http://localhost:8000/dashboard/.
-
 # Install MySQL
   - Download and install MySQL from the official website: MySQL Community Downloads.
   - During installation, remember the root password you set for the MySQL server.
