@@ -45,7 +45,7 @@
 # Configure Database
 
   1. Update the database settings in settings.py:
-    Open audio-dashboard/audioupload/settings.py and locate the DATABASES section.
+    Open AudioDashboard/settings.py and locate the DATABASES section.
     Replace 'your_database_name', 'your_mysql_username', and 'your_mysql_password' with your MySQL database information:
 
     DATABASES = {
